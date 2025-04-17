@@ -1,7 +1,7 @@
 # DroneWatch
 
 ## 🌟 Overview
-Drone Watch displays an **optimized drone surveillance system** leveraging **Ant Colony Optimization (ACO)** algorithms to autonomously patrol the Lewiston-Queenston Bridge area. This system addresses critical **border security challenges** with:
+Drone Watch was a project developed for my Engineering Strategies and Practices course (UofT) in collaboration with Titan Consulting. The final deliverable of the project displays an **optimized drone surveillance system** leveraging **Ant Colony Optimization (ACO)** algorithms to autonomously patrol the Lewiston-Queenston Bridge area. This system addresses critical **border security challenges** with:
 
 - **Real-time path optimization** for different drone types in each design 
 - **Packet loss simulation** ensuring <4% communication loss threshold
